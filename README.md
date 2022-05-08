@@ -2,4 +2,6 @@
  
  Primeiro Repositório Curso de GIT e GITHUB.
  
- Criado durante uma aula ao vivo do Curso em Video do Professor Gustavo Guanabara!
+ Criado durante uma aula ao vivo do Curso em Vídeo do Professor Gustavo Guanabara!
+ 
+ Essa linha foi alterada diretamente pelo site!!
